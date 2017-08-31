@@ -18,4 +18,5 @@ This is a simple FidgetSpinner view. You can implement a Android FidgetSpinner w
         f.setImageDrawable(R.drawable.spinner);
     }
     
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6zTNGCX5VRk" frameborder="0" allowfullscreen></iframe>
+
+[![FidgetSpinnerView demo](https://img.youtube.com/vi/6zTNGCX5VRk/0.jpg)](https://www.youtube.com/embed/6zTNGCX5VRk)
