@@ -1,6 +1,10 @@
 # FidgetSpinnerImageView
 This is a simple FidgetSpinner view. You can implement a Android FidgetSpinner with it.
 
+The Image in the demo is taken from my android game
+https://play.google.com/store/apps/details?id=com.jentsch.smartsquares
+I added the FidgetSpinnerImageView in this project just for fun. So it is possible to spinn the logo :-). 
+
 # Usage
 1 Add the com.jentsch.fidgetspinnerview.FidgetSpinner to your layout
 
